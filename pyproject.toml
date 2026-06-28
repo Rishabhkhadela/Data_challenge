@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-hiring-intelligence"
+version = "0.1.0"
+description = "Production-grade boilerplate for an AI Hiring Intelligence platform."
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+authors = [
+  { name = "Redrob AI" }
+]
+dependencies = [
+  "fastapi>=0.111.0,<1.0.0",
+  "uvicorn[standard]>=0.30.0,<1.0.0",
+  "streamlit>=1.36.0,<2.0.0",
+  "pydantic>=2.7.0,<3.0.0",
+  "pydantic-settings>=2.3.0,<3.0.0",
+  "python-dotenv>=1.0.0,<2.0.0",
+  "PyYAML>=6.0.0,<7.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "httpx>=0.27.0,<1.0.0",
+  "pytest>=8.2.0,<9.0.0",
+  "pytest-cov>=5.0.0,<6.0.0",
+  "ruff>=0.5.0,<1.0.0",
+  "mypy>=1.10.0,<2.0.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+packages = ["ai_hiring_intelligence"]

@@ -1,0 +1,17 @@
+app:
+  name: AI Hiring Intelligence
+  environment: local
+  version: 0.1.0
+
+api:
+  host: 0.0.0.0
+  port: 8000
+
+ui:
+  host: 0.0.0.0
+  port: 8501
+
+logging:
+  level: INFO
+  json: false
+

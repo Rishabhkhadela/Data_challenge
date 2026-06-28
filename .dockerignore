@@ -1,0 +1,21 @@
+.git
+.gitignore
+.venv
+venv
+env
+__pycache__
+*.pyc
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.coverage
+htmlcov
+dist
+build
+*.egg-info
+.env
+.env.*
+logs
+tmp
+[PUB] India_runs_data_and_ai_challenge
+
