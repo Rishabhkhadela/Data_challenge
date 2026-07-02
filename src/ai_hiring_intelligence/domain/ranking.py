@@ -75,7 +75,42 @@ def behavior_score(candidate: CandidateRecord, requirements: Requirements | None
         matched = sum(1 for trait in behavior_traits if trait in profile_text)
         score = 0.8 * score + 0.2 * (matched / len(behavior_traits))
 
-    return _clamp01(score)
+    base_behavior_score = _clamp01(score)
+
+    # -------------------------------------------------------------
+    # JD Constraint 3: Notice Period Penalty (sub-30-day notice preferred)
+    # -------------------------------------------------------------
+    notice_days = signals.get("notice_period_days")
+    if notice_days is not None:
+        try:
+            days = float(notice_days)
+            if days > 60:
+                base_behavior_score *= 0.7  # 30% penalty for long notice period (e.g. 90 days)
+            elif days > 30:
+                base_behavior_score *= 0.85 # 15% penalty for >30 days notice
+        except (ValueError, TypeError):
+            pass
+
+    # -------------------------------------------------------------
+    # JD Constraint 4: Inactivity Penalty (haven't logged in for 6+ months)
+    # -------------------------------------------------------------
+    last_active = signals.get("last_active_date")
+    if last_active:
+        try:
+            from datetime import datetime
+            active_date = datetime.strptime(str(last_active).strip()[:10], "%Y-%m-%d")
+            # Current time of challenge/metadata is 2026-07-02
+            current_date = datetime(2026, 7, 2)
+            days_inactive = (current_date - active_date).days
+            
+            if days_inactive > 180:   # 6 months
+                base_behavior_score *= 0.4  # 60% penalty
+            elif days_inactive > 90:  # 3 months
+                base_behavior_score *= 0.7  # 30% penalty
+        except Exception:
+            pass
+
+    return _clamp01(base_behavior_score)
 
 
 def career_score(candidate: CandidateRecord, requirements: Requirements) -> float:
@@ -117,12 +152,63 @@ def career_score(candidate: CandidateRecord, requirements: Requirements) -> floa
         _token_set(requirements_text),
     )
 
-    return _clamp01(
+    base_career_score = _clamp01(
         (0.15 * title_overlap)
         + (0.55 * phrase_match)
         + (0.1 * industry_signal)
         + (0.2 * current_role_bonus)
     )
+
+    # -------------------------------------------------------------
+    # JD Constraint 1: Marketing Manager/Non-Tech Title Penalty
+    # -------------------------------------------------------------
+    title = _normalize_text(profile.get("current_title", ""))
+    non_tech_titles = {
+        "marketing", "sales", "hr", "recruiter", "human resources", "operations", 
+        "finance", "accountant", "accounting", "customer support", "customer success",
+        "mechanical", "civil", "product manager", "project manager", "admin", "administrator"
+    }
+    title_tokens = _token_set(title)
+    has_non_tech = any(kw in title or kw in title_tokens for kw in non_tech_titles)
+    
+    tech_keywords = {
+        "engineer", "developer", "scientist", "programmer", "architect", "coding", "software", "tech"
+    }
+    has_tech = any(kw in title or kw in title_tokens for kw in tech_keywords)
+    
+    if has_non_tech and not has_tech:
+        base_career_score *= 0.1  # 90% penalty for non-technical trap profiles
+        
+    # -------------------------------------------------------------
+    # JD Constraint 2: Consulting Company Only Penalty (TCS, Infosys, etc.)
+    # -------------------------------------------------------------
+    if career_history:
+        consulting_keywords = {
+            "tcs", "infosys", "wipro", "accenture", "cognizant", "capgemini",
+            "tata consultancy", "tata consultancy services"
+        }
+        companies = []
+        for role in career_history:
+            comp = _normalize_text(role.get("company", ""))
+            if comp:
+                companies.append(comp)
+        
+        if companies:
+            all_consulting = True
+            for comp in companies:
+                comp_tokens = _token_set(comp)
+                is_consulting = False
+                for kw in consulting_keywords:
+                    if kw in comp or any(kw in token for token in comp_tokens):
+                        is_consulting = True
+                        break
+                if not is_consulting:
+                    all_consulting = False
+                    break
+            if all_consulting:
+                base_career_score *= 0.2  # 80% penalty if candidate has only worked at consulting firms
+
+    return _clamp01(base_career_score)
 
 
 def experience_score(candidate: CandidateRecord, requirements: Requirements) -> float:

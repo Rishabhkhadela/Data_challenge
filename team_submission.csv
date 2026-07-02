@@ -1,101 +1,101 @@
 candidate_id,rank,score,reasoning
-CAND_0000031,1,0.455745,Rank 1 profile scoring 45.6% based on matching Python; Machine Learning skills and 6.0 years experience.
-CAND_0000045,2,0.438976,Rank 2 profile scoring 43.9% based on matching Python; Machine Learning skills and 12.2 years experience.
-CAND_0000005,3,0.424141,Rank 3 profile scoring 42.4% based on matching Python; Machine Learning skills and 11.0 years experience.
-CAND_0000041,4,0.419918,Rank 4 profile scoring 42.0% based on matching Python; Machine Learning skills and 13.7 years experience.
-CAND_0000016,5,0.416207,Rank 5 profile scoring 41.6% based on matching Python; Machine Learning skills and 5.3 years experience.
-CAND_0000043,6,0.39863,Rank 6 profile scoring 39.9% based on matching Python; Machine Learning skills and 8.3 years experience.
-CAND_0000017,7,0.395865,Rank 7 profile scoring 39.6% based on matching Python; Machine Learning skills and 12.3 years experience.
-CAND_0000033,8,0.393735,Rank 8 profile scoring 39.4% based on matching Python; Machine Learning skills and 8.6 years experience.
-CAND_0000021,9,0.393087,Rank 9 profile scoring 39.3% based on matching Python; Machine Learning skills and 14.5 years experience.
-CAND_0000029,10,0.389873,Rank 10 profile scoring 39.0% based on matching Python; Machine Learning skills and 7.2 years experience.
-CAND_0000036,11,0.389175,Rank 11 profile scoring 38.9% based on matching Python; Machine Learning skills and 11.3 years experience.
-CAND_0000037,12,0.388756,Rank 12 profile scoring 38.9% based on matching Python; Machine Learning skills and 14.3 years experience.
-CAND_0000042,13,0.387292,Rank 13 profile scoring 38.7% based on matching Python; Machine Learning skills and 5.0 years experience.
-CAND_0000006,14,0.387007,Rank 14 profile scoring 38.7% based on matching Python; Machine Learning skills and 6.0 years experience.
-CAND_0000046,15,0.384109,Rank 15 profile scoring 38.4% based on matching Python; Machine Learning skills and 7.8 years experience.
-CAND_0000049,16,0.383564,Rank 16 profile scoring 38.4% based on matching Python; Machine Learning skills and 11.8 years experience.
-CAND_0000009,17,0.383043,Rank 17 profile scoring 38.3% based on matching Python; Machine Learning skills and 11.0 years experience.
-CAND_0000050,18,0.377918,Rank 18 profile scoring 37.8% based on matching Python; Machine Learning skills and 13.5 years experience.
-CAND_0000032,19,0.377173,Rank 19 profile scoring 37.7% based on matching Python; Machine Learning skills and 8.1 years experience.
-CAND_0000025,20,0.376553,Rank 20 profile scoring 37.7% based on matching Python; Machine Learning skills and 7.3 years experience.
-CAND_0000030,21,0.376467,Rank 21 profile scoring 37.6% based on matching Python; Machine Learning skills and 10.0 years experience.
-CAND_0000026,22,0.372736,Rank 22 profile scoring 37.3% based on matching Python; Machine Learning skills and 6.8 years experience.
-CAND_0000034,23,0.372561,Rank 23 profile scoring 37.3% based on matching Python; Machine Learning skills and 14.5 years experience.
-CAND_0000020,24,0.371674,Rank 24 profile scoring 37.2% based on matching Python; Machine Learning skills and 6.3 years experience.
-CAND_0000038,25,0.369929,Rank 25 profile scoring 37.0% based on matching Python; Machine Learning skills and 6.7 years experience.
-CAND_0000044,26,0.362741,Rank 26 profile scoring 36.3% based on matching Python; Machine Learning skills and 5.7 years experience.
-CAND_0000048,27,0.362002,Rank 27 profile scoring 36.2% based on matching Python; Machine Learning skills and 9.7 years experience.
-CAND_0000010,28,0.36173,Rank 28 profile scoring 36.2% based on matching Python; Machine Learning skills and 4.6 years experience.
-CAND_0000014,29,0.358339,Rank 29 profile scoring 35.8% based on matching Python; Machine Learning skills and 8.4 years experience.
-CAND_0000015,30,0.358116,Rank 30 profile scoring 35.8% based on matching Python; Machine Learning skills and 5.4 years experience.
-CAND_0000002,31,0.357133,Rank 31 profile scoring 35.7% based on matching Python; Machine Learning skills and 12.5 years experience.
-CAND_0000019,32,0.356335,Rank 32 profile scoring 35.6% based on matching Python; Machine Learning skills and 6.5 years experience.
-CAND_0000007,33,0.35564,Rank 33 profile scoring 35.6% based on matching Python; Machine Learning skills and 5.5 years experience.
-CAND_0000024,34,0.343207,Rank 34 profile scoring 34.3% based on matching Python; Machine Learning skills and 7.5 years experience.
-CAND_0000001,35,0.342586,Rank 35 profile scoring 34.3% based on matching Python; Machine Learning skills and 6.9 years experience.
-CAND_0000035,36,0.332588,Rank 36 profile scoring 33.3% based on matching Python; Machine Learning skills and 4.3 years experience.
-CAND_0000018,37,0.323376,Rank 37 profile scoring 32.3% based on matching Python; Machine Learning skills and 6.6 years experience.
-CAND_0000004,38,0.297503,Rank 38 profile scoring 29.8% based on matching Python; Machine Learning skills and 3.8 years experience.
-CAND_0000011,39,0.297313,Rank 39 profile scoring 29.7% based on matching Python; Machine Learning skills and 2.0 years experience.
-CAND_0000027,40,0.295498,Rank 40 profile scoring 29.5% based on matching Python; Machine Learning skills and 3.9 years experience.
-CAND_0000023,41,0.293639,Rank 41 profile scoring 29.4% based on matching Python; Machine Learning skills and 3.7 years experience.
-CAND_0000039,42,0.287717,Rank 42 profile scoring 28.8% based on matching Python; Machine Learning skills and 3.9 years experience.
-CAND_0000047,43,0.285829,Rank 43 profile scoring 28.6% based on matching Python; Machine Learning skills and 2.4 years experience.
-CAND_0000008,44,0.255894,Rank 44 profile scoring 25.6% based on matching Python; Machine Learning skills and 3.6 years experience.
-CAND_0000022,45,0.231425,Rank 45 profile scoring 23.1% based on matching Python; Machine Learning skills and 1.1 years experience.
-CAND_0000040,46,0.209136,Rank 46 profile scoring 20.9% based on matching Python; Machine Learning skills and 1.6 years experience.
-CAND_0000013,47,0.189915,Rank 47 profile scoring 19.0% based on matching Python; Machine Learning skills and 1.1 years experience.
-CAND_0000012,48,0.170713,Rank 48 profile scoring 17.1% based on matching Python; Machine Learning skills and 1.1 years experience.
-CAND_0000028,49,0.167274,Rank 49 profile scoring 16.7% based on matching Python; Machine Learning skills and 1.1 years experience.
-CAND_0000003,50,0.164265,Rank 50 profile scoring 16.4% based on matching Python; Machine Learning skills and 1.1 years experience.
-CAND_9990051,51,0.113265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990052,52,0.112265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990053,53,0.111265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990054,54,0.110265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990055,55,0.109265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990056,56,0.108265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990057,57,0.107265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990058,58,0.106265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990059,59,0.105265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990060,60,0.104265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990061,61,0.103265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990062,62,0.102265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990063,63,0.101265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990064,64,0.100265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990065,65,0.099265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990066,66,0.098265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990067,67,0.097265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990068,68,0.096265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990069,69,0.095265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990070,70,0.094265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990071,71,0.093265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990072,72,0.092265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990073,73,0.091265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990074,74,0.090265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990075,75,0.089265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990076,76,0.088265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990077,77,0.087265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990078,78,0.086265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990079,79,0.085265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990080,80,0.084265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990081,81,0.083265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990082,82,0.082265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990083,83,0.081265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990084,84,0.080265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990085,85,0.079265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990086,86,0.078265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990087,87,0.077265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990088,88,0.076265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990089,89,0.075265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990090,90,0.074265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990091,91,0.073265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990092,92,0.072265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990093,93,0.071265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990094,94,0.070265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990095,95,0.069265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990096,96,0.068265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990097,97,0.067265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990098,98,0.066265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990099,99,0.065265,Placeholder profile padded to meet the 100 rows submission requirement.
-CAND_9990100,100,0.064265,Placeholder profile padded to meet the 100 rows submission requirement.
+CAND_0002025,1,0.65833,Rank 1 profile scoring 65.8% based on matching Python; embeddings-based retrieval systems skills and 5.9 years experience.
+CAND_0088025,2,0.640161,Rank 2 profile scoring 64.0% based on matching Python; embeddings-based retrieval systems skills and 8.6 years experience.
+CAND_0086022,3,0.624806,Rank 3 profile scoring 62.5% based on matching Python; embeddings-based retrieval systems skills and 5.3 years experience.
+CAND_0079387,4,0.621103,Rank 4 profile scoring 62.1% based on matching Python; embeddings-based retrieval systems skills and 6.9 years experience.
+CAND_0077337,5,0.604128,Rank 5 profile scoring 60.4% based on matching Python; embeddings-based retrieval systems skills and 7.0 years experience.
+CAND_0005260,6,0.603055,Rank 6 profile scoring 60.3% based on matching Python; embeddings-based retrieval systems skills and 5.2 years experience.
+CAND_0037944,7,0.60235,Rank 7 profile scoring 60.2% based on matching Python; embeddings-based retrieval systems skills and 4.9 years experience.
+CAND_0081846,8,0.598603,Rank 8 profile scoring 59.9% based on matching Python; embeddings-based retrieval systems skills and 6.7 years experience.
+CAND_0081686,9,0.598129,Rank 9 profile scoring 59.8% based on matching Python; embeddings-based retrieval systems skills and 6.0 years experience.
+CAND_0068351,10,0.596772,Rank 10 profile scoring 59.7% based on matching Python; embeddings-based retrieval systems skills and 6.4 years experience.
+CAND_0055905,11,0.596692,Rank 11 profile scoring 59.7% based on matching Python; embeddings-based retrieval systems skills and 8.1 years experience.
+CAND_0093193,12,0.592301,Rank 12 profile scoring 59.2% based on matching Python; embeddings-based retrieval systems skills and 7.9 years experience.
+CAND_0062247,13,0.587852,Rank 13 profile scoring 58.8% based on matching Python; embeddings-based retrieval systems skills and 7.3 years experience.
+CAND_0045250,14,0.587624,Rank 14 profile scoring 58.8% based on matching Python; embeddings-based retrieval systems skills and 6.6 years experience.
+CAND_0030031,15,0.583395,Rank 15 profile scoring 58.3% based on matching Python; embeddings-based retrieval systems skills and 5.7 years experience.
+CAND_0046525,16,0.582867,Rank 16 profile scoring 58.3% based on matching Python; embeddings-based retrieval systems skills and 6.1 years experience.
+CAND_0033861,17,0.578924,Rank 17 profile scoring 57.9% based on matching Python; embeddings-based retrieval systems skills and 8.0 years experience.
+CAND_0070398,18,0.578473,Rank 18 profile scoring 57.8% based on matching Python; embeddings-based retrieval systems skills and 7.2 years experience.
+CAND_0077285,19,0.578428,Rank 19 profile scoring 57.8% based on matching Python; embeddings-based retrieval systems skills and 5.5 years experience.
+CAND_0066999,20,0.578166,Rank 20 profile scoring 57.8% based on matching Python; embeddings-based retrieval systems skills and 5.9 years experience.
+CAND_0039754,21,0.577608,Rank 21 profile scoring 57.8% based on matching Python; embeddings-based retrieval systems skills and 16.2 years experience.
+CAND_0049538,22,0.576994,Rank 22 profile scoring 57.7% based on matching Python; embeddings-based retrieval systems skills and 5.8 years experience.
+CAND_0008425,23,0.576764,Rank 23 profile scoring 57.7% based on matching Python; embeddings-based retrieval systems skills and 7.8 years experience.
+CAND_0080766,24,0.573654,Rank 24 profile scoring 57.4% based on matching Python; embeddings-based retrieval systems skills and 8.8 years experience.
+CAND_0005649,25,0.573252,Rank 25 profile scoring 57.3% based on matching Python; embeddings-based retrieval systems skills and 7.4 years experience.
+CAND_0042029,26,0.571239,Rank 26 profile scoring 57.1% based on matching Python; embeddings-based retrieval systems skills and 6.5 years experience.
+CAND_0069905,27,0.570729,Rank 27 profile scoring 57.1% based on matching Python; embeddings-based retrieval systems skills and 6.6 years experience.
+CAND_0061257,28,0.570525,Rank 28 profile scoring 57.1% based on matching Python; embeddings-based retrieval systems skills and 8.0 years experience.
+CAND_0044222,29,0.569895,Rank 29 profile scoring 57.0% based on matching Python; embeddings-based retrieval systems skills and 7.7 years experience.
+CAND_0015528,30,0.569736,Rank 30 profile scoring 57.0% based on matching Python; embeddings-based retrieval systems skills and 7.4 years experience.
+CAND_0043228,31,0.568998,Rank 31 profile scoring 56.9% based on matching Python; embeddings-based retrieval systems skills and 6.8 years experience.
+CAND_0030468,32,0.568178,Rank 32 profile scoring 56.8% based on matching Python; embeddings-based retrieval systems skills and 5.4 years experience.
+CAND_0071974,33,0.567461,Rank 33 profile scoring 56.7% based on matching Python; embeddings-based retrieval systems skills and 7.8 years experience.
+CAND_0006567,34,0.567347,Rank 34 profile scoring 56.7% based on matching Python; embeddings-based retrieval systems skills and 7.9 years experience.
+CAND_0065878,35,0.566129,Rank 35 profile scoring 56.6% based on matching Python; embeddings-based retrieval systems skills and 7.8 years experience.
+CAND_0094759,36,0.565767,Rank 36 profile scoring 56.6% based on matching Python; embeddings-based retrieval systems skills and 8.6 years experience.
+CAND_0005538,37,0.565412,Rank 37 profile scoring 56.5% based on matching Python; embeddings-based retrieval systems skills and 5.9 years experience.
+CAND_0040887,38,0.565319,Rank 38 profile scoring 56.5% based on matching Python; embeddings-based retrieval systems skills and 4.7 years experience.
+CAND_0052328,39,0.564625,Rank 39 profile scoring 56.5% based on matching Python; embeddings-based retrieval systems skills and 6.5 years experience.
+CAND_0083879,40,0.563715,Rank 40 profile scoring 56.4% based on matching Python; embeddings-based retrieval systems skills and 7.1 years experience.
+CAND_0051292,41,0.562894,Rank 41 profile scoring 56.3% based on matching Python; embeddings-based retrieval systems skills and 5.2 years experience.
+CAND_0044855,42,0.562508,Rank 42 profile scoring 56.3% based on matching Python; embeddings-based retrieval systems skills and 6.6 years experience.
+CAND_0018499,43,0.560866,Rank 43 profile scoring 56.1% based on matching Python; embeddings-based retrieval systems skills and 7.2 years experience.
+CAND_0020350,44,0.560554,Rank 44 profile scoring 56.1% based on matching Python; embeddings-based retrieval systems skills and 5.8 years experience.
+CAND_0007009,45,0.560476,Rank 45 profile scoring 56.0% based on matching Python; embeddings-based retrieval systems skills and 7.9 years experience.
+CAND_0064326,46,0.560197,Rank 46 profile scoring 56.0% based on matching Python; embeddings-based retrieval systems skills and 7.6 years experience.
+CAND_0030953,47,0.558749,Rank 47 profile scoring 55.9% based on matching Python; embeddings-based retrieval systems skills and 7.8 years experience.
+CAND_0010685,48,0.558124,Rank 48 profile scoring 55.8% based on matching Python; embeddings-based retrieval systems skills and 6.7 years experience.
+CAND_0099806,49,0.557774,Rank 49 profile scoring 55.8% based on matching Python; embeddings-based retrieval systems skills and 4.6 years experience.
+CAND_0098846,50,0.555541,Rank 50 profile scoring 55.6% based on matching Python; embeddings-based retrieval systems skills and 7.6 years experience.
+CAND_0012957,51,0.553871,Rank 51 profile scoring 55.4% based on matching Python; embeddings-based retrieval systems skills and 4.9 years experience.
+CAND_0029367,52,0.552568,Rank 52 profile scoring 55.3% based on matching Python; embeddings-based retrieval systems skills and 5.7 years experience.
+CAND_0032216,53,0.551543,Rank 53 profile scoring 55.2% based on matching Python; embeddings-based retrieval systems skills and 6.1 years experience.
+CAND_0079284,54,0.551416,Rank 54 profile scoring 55.1% based on matching Python; embeddings-based retrieval systems skills and 4.9 years experience.
+CAND_0047721,55,0.550794,Rank 55 profile scoring 55.1% based on matching Python; embeddings-based retrieval systems skills and 7.0 years experience.
+CAND_0072660,56,0.548081,Rank 56 profile scoring 54.8% based on matching Python; embeddings-based retrieval systems skills and 7.1 years experience.
+CAND_0039838,57,0.547271,Rank 57 profile scoring 54.7% based on matching Python; embeddings-based retrieval systems skills and 4.9 years experience.
+CAND_0042506,58,0.545882,Rank 58 profile scoring 54.6% based on matching Python; embeddings-based retrieval systems skills and 4.2 years experience.
+CAND_0015578,59,0.545762,Rank 59 profile scoring 54.6% based on matching Python; embeddings-based retrieval systems skills and 5.4 years experience.
+CAND_0008978,60,0.544937,Rank 60 profile scoring 54.5% based on matching Python; embeddings-based retrieval systems skills and 6.7 years experience.
+CAND_0074735,61,0.544605,Rank 61 profile scoring 54.5% based on matching Python; embeddings-based retrieval systems skills and 5.5 years experience.
+CAND_0032515,62,0.5443,Rank 62 profile scoring 54.4% based on matching Python; embeddings-based retrieval systems skills and 5.1 years experience.
+CAND_0052335,63,0.543611,Rank 63 profile scoring 54.4% based on matching Python; embeddings-based retrieval systems skills and 6.4 years experience.
+CAND_0091745,64,0.543266,Rank 64 profile scoring 54.3% based on matching Python; embeddings-based retrieval systems skills and 5.9 years experience.
+CAND_0030827,65,0.542803,Rank 65 profile scoring 54.3% based on matching Python; embeddings-based retrieval systems skills and 5.4 years experience.
+CAND_0057563,66,0.542704,Rank 66 profile scoring 54.3% based on matching Python; embeddings-based retrieval systems skills and 6.8 years experience.
+CAND_0094056,67,0.54243,Rank 67 profile scoring 54.2% based on matching Python; embeddings-based retrieval systems skills and 5.9 years experience.
+CAND_0005269,68,0.542248,Rank 68 profile scoring 54.2% based on matching Python; embeddings-based retrieval systems skills and 6.1 years experience.
+CAND_0074225,69,0.540992,Rank 69 profile scoring 54.1% based on matching Python; embeddings-based retrieval systems skills and 4.3 years experience.
+CAND_0055992,70,0.540784,Rank 70 profile scoring 54.1% based on matching Python; embeddings-based retrieval systems skills and 16.9 years experience.
+CAND_0050454,71,0.540203,Rank 71 profile scoring 54.0% based on matching Python; embeddings-based retrieval systems skills and 6.8 years experience.
+CAND_0000031,72,0.539563,Rank 72 profile scoring 54.0% based on matching Python; embeddings-based retrieval systems skills and 6.0 years experience.
+CAND_0041610,73,0.539223,Rank 73 profile scoring 53.9% based on matching Python; embeddings-based retrieval systems skills and 6.7 years experience.
+CAND_0065277,74,0.539012,Rank 74 profile scoring 53.9% based on matching Python; embeddings-based retrieval systems skills and 6.3 years experience.
+CAND_0046064,75,0.537634,Rank 75 profile scoring 53.8% based on matching Python; embeddings-based retrieval systems skills and 8.9 years experience.
+CAND_0078508,76,0.537247,Rank 76 profile scoring 53.7% based on matching Python; embeddings-based retrieval systems skills and 5.2 years experience.
+CAND_0095619,77,0.536187,Rank 77 profile scoring 53.6% based on matching Python; embeddings-based retrieval systems skills and 15.6 years experience.
+CAND_0051630,78,0.536002,Rank 78 profile scoring 53.6% based on matching Python; embeddings-based retrieval systems skills and 6.0 years experience.
+CAND_0011162,79,0.535513,Rank 79 profile scoring 53.6% based on matching Python; embeddings-based retrieval systems skills and 5.8 years experience.
+CAND_0052682,80,0.535463,Rank 80 profile scoring 53.5% based on matching Python; embeddings-based retrieval systems skills and 6.6 years experience.
+CAND_0087364,81,0.533494,Rank 81 profile scoring 53.3% based on matching Python; embeddings-based retrieval systems skills and 4.9 years experience.
+CAND_0036437,82,0.533478,Rank 82 profile scoring 53.3% based on matching Python; embeddings-based retrieval systems skills and 4.8 years experience.
+CAND_0087778,83,0.533215,Rank 83 profile scoring 53.3% based on matching Python; embeddings-based retrieval systems skills and 5.8 years experience.
+CAND_0009024,84,0.531475,Rank 84 profile scoring 53.1% based on matching Python; embeddings-based retrieval systems skills and 5.2 years experience.
+CAND_0070202,85,0.531408,Rank 85 profile scoring 53.1% based on matching Python; embeddings-based retrieval systems skills and 5.1 years experience.
+CAND_0036184,86,0.531185,Rank 86 profile scoring 53.1% based on matching Python; embeddings-based retrieval systems skills and 6.0 years experience.
+CAND_0076904,87,0.530266,Rank 87 profile scoring 53.0% based on matching Python; embeddings-based retrieval systems skills and 4.2 years experience.
+CAND_0078492,88,0.530261,Rank 88 profile scoring 53.0% based on matching Python; embeddings-based retrieval systems skills and 5.1 years experience.
+CAND_0043860,89,0.530193,Rank 89 profile scoring 53.0% based on matching Python; embeddings-based retrieval systems skills and 6.1 years experience.
+CAND_0096172,90,0.530011,Rank 90 profile scoring 53.0% based on matching Python; embeddings-based retrieval systems skills and 5.2 years experience.
+CAND_0093547,91,0.529663,Rank 91 profile scoring 53.0% based on matching Python; embeddings-based retrieval systems skills and 2.9 years experience.
+CAND_0027801,92,0.529288,Rank 92 profile scoring 52.9% based on matching Python; embeddings-based retrieval systems skills and 7.4 years experience.
+CAND_0014440,93,0.528511,Rank 93 profile scoring 52.9% based on matching Python; embeddings-based retrieval systems skills and 6.4 years experience.
+CAND_0052195,94,0.527761,Rank 94 profile scoring 52.8% based on matching Python; embeddings-based retrieval systems skills and 6.3 years experience.
+CAND_0058575,95,0.526652,Rank 95 profile scoring 52.7% based on matching Python; embeddings-based retrieval systems skills and 5.8 years experience.
+CAND_0017960,96,0.526306,Rank 96 profile scoring 52.6% based on matching Python; embeddings-based retrieval systems skills and 7.7 years experience.
+CAND_0010149,97,0.526013,Rank 97 profile scoring 52.6% based on matching Python; embeddings-based retrieval systems skills and 6.9 years experience.
+CAND_0066376,98,0.525167,Rank 98 profile scoring 52.5% based on matching Python; embeddings-based retrieval systems skills and 5.7 years experience.
+CAND_0093912,99,0.525118,Rank 99 profile scoring 52.5% based on matching Python; embeddings-based retrieval systems skills and 5.3 years experience.
+CAND_0044883,100,0.524973,Rank 100 profile scoring 52.5% based on matching Python; embeddings-based retrieval systems skills and 6.3 years experience.
